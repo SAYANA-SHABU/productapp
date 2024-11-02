@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#id1{
+  border: 1px solid black;
+  border-radius:18px;
+  margin-left: 300px;
+  margin-right: 300px;
+background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MjItMDY2LXguanBn.jpg);
+
+}
